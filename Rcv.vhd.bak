@@ -1,0 +1,22 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity rcvTop is
+port(
+	reset:					in std_logic;
+	clk_phy:					in std_logic;
+	
+	data_in:					in std_logic_vector(3 downto 0);
+	
+	data_out:				out std_logic_vector(8 downto 0);
+	ctrl_out:				out std_logic_vector(23 downto 0);
+	valid:					out std_logic
+);
+end entity;
+
+architecture toplevel of rcvTop is
+
+begin
+
+end architecture;

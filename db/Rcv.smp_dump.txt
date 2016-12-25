@@ -1,0 +1,6 @@
+
+State Machine - |in_FSM|my_state
+Name my_state.s_discard my_state.s_stream my_state.s_idle 
+my_state.s_idle 0 0 0 
+my_state.s_stream 0 1 1 
+my_state.s_discard 1 0 1 
