@@ -20,11 +20,171 @@
 					"strict" : false
 				},
 				{
-					"name" : "clk_phy",
+					"name" : "data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "data_valid_out",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ctrl_valid_out",
+					"strict" : false
+				},
+				{
+					"name" : "discard_out",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "seq_num_out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_sys",
 					"strict" : false
 				},
 				{
 					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk_phy",
+					"strict" : false
+				},
+				{
+					"name" : "valid_in",
 					"strict" : false
 				},
 				{

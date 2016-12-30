@@ -1,0 +1,51 @@
+C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/in_FSM.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/in_FSM.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity in_FSM
+-- Compiling architecture rtl of in_FSM
+
+} {} {}} C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/CRC.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/CRC.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CRC
+-- Compiling architecture RTL of CRC
+
+} {} {}} C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/FIFO_1.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/FIFO_1.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FIFO_1
+-- Compiling architecture SYN of fifo_1
+
+} {} {}} C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/sequence_detector.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/sequence_detector.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sequence_detector
+-- Compiling architecture struct of sequence_detector
+
+} {} {}} C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/tests/testbench_long_packets.v {1 {vlog -work work -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/tests/testbench_long_packets.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module testbench_long_packets
+
+Top level modules:
+	testbench_long_packets
+
+} {} {}} C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/FIFO_8.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/User/OneDrive/dev/VHDL/Ethernet_switch/Receive_subsystem/FIFO_8.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FIFO_8
+-- Compiling architecture SYN of fifo_8
+
+} {} {}}

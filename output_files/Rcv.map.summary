@@ -1,13 +1,13 @@
-Analysis & Synthesis Status : Successful - Fri Dec 23 13:40:13 2016
+Analysis & Synthesis Status : Successful - Thu Dec 29 20:28:58 2016
 Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
 Revision Name : Rcv
-Top-level Entity Name : in_FSM
+Top-level Entity Name : Rcv
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 8
-Total pins : 14
+Total registers : 838
+Total pins : 58
 Total virtual pins : 0
-Total block memory bits : 0
+Total block memory bits : 360,448
 Total DSP Blocks : 0
 Total HSSI RX PCSs : 0
 Total HSSI PMA RX Deserializers : 0
